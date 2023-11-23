@@ -1,0 +1,31 @@
+.TableName{
+    text-align: center;
+    margin: 30px;
+}
+.back-align{
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+}
+
+td{
+  height: 20;
+  width: 10;
+
+    vertical-align: middle;
+}
+
+tr{
+  text-align: center;
+}
+
+.Table, .Table1{
+    width: 80%;
+    margin: 60px;
+    vertical-align: center;
+
+}
+
+.TableName1{
+  margin-top: 100px;
+}

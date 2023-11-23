@@ -1,0 +1,15 @@
+form div, .name{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+form{
+    background-color: darkgreen;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
